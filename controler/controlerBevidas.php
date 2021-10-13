@@ -66,6 +66,6 @@ class taskControler{
     }
 
     function detailOfType(){
-
+        
     }
 }
